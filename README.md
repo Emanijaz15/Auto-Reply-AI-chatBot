@@ -27,17 +27,13 @@ This project is an **automated AI chatbot** that reads messages from your screen
 ```bash
 git clone https://github.com/yourusername/auto-reply-chatbot.git
 cd auto-reply-chatbot
+Install required libraries:
 
-##
-
-2. **Install required libraries:**
-
-```bash
+bash
 pip install pyautogui pyperclip openai keyboard
+Set your API key:
 
-##
+Open the script and find this line:
 
-3. **Set your API key:**
-
-```bash
-api_key="api_key_here"
+python
+api_key = "api_key_here"
