@@ -31,5 +31,5 @@ api_key = "api_key_here"
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/auto-reply-chatbot.git
+git clone https://github.com/Emanijaz15/Auto-Reply-AI-chatBot.git
 cd auto-reply-chatbot
