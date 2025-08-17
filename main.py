@@ -4,7 +4,7 @@ import time
 from openai import OpenAI
 import os
 import keyboard
-
+ 
 time.sleep(3)
 pyautogui.moveTo(1371, 1170, duration=0.5)
 pyautogui.click()
